@@ -1,0 +1,9 @@
+a:-webkit-any-link {
+  color: blue;
+  cursor: pointer;
+  text-decoration:none; 
+}
+
+c-skills {
+  color: green;
+}
